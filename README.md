@@ -1,5 +1,5 @@
 👋<h1 align="center">Hi 👋, I'm Jagruth</h1>
-<h3 align="center">Passionate about in Data Analytics & ML</h3>
+<h3 align="center">Passionate about Data Analytics & ML</h3>
 
 - 🌱 I’m currently learning **DBMS & JavaScript**
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jagruth39@gmail.com **
 
-- ⚡ Fun fact **I am really forgetful sometimes**
+- ⚡ Fun fact **I like country which has 1 vending machine for every 24 people **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
