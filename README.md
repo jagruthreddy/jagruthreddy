@@ -1,7 +1,7 @@
 👋<h1 align="center">Hi 👋, I'm Jagruth</h1>
 <h3 align="center">Passionate about Data Analytics & ML</h3>
 
-- 🌱 I’m currently learning **DBMS & JavaScript**
+- 🌱 I’m currently learning **DBMS & DSA**
 
 - 💬 Ask me about **Data science**
 
