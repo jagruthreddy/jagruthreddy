@@ -5,9 +5,9 @@
 
 - 💬 Ask me about **Data science**
 
-- 📫 How to reach me **jagruth39@gmail.com **
+- 📫 How to reach me **jagruth39@gmail.com**
 
-- ⚡ Fun fact **I like country which has 1 vending machine for every 24 people **
+- ⚡ Fun fact **I like country which has 1 vending machine for every 24 people**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
