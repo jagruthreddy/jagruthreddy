@@ -1,7 +1,7 @@
 👋<h1 align="center">Hi 👋, I'm Jagruth</h1>
 <h3 align="center">Passionate about Data & AI</h3>
 
-- 🌱 I’m currently learning more on **A.I**
+- 🌱 I’m currently learning more on **Artificial Intelligence**
 
 - 💬 Ask me anything about **Data Science** and **Artificial Intelligence**!
 
