@@ -1,5 +1,5 @@
 👋<h1 align="center">Hi 👋, I'm Jagruth</h1>
-<h3 align="center">Passionate about Data Analytics & ML</h3>
+<h3 align="center">Passionate about Data & AI</h3>
 
 - 🌱 I’m currently learning more on **A.I**
 
