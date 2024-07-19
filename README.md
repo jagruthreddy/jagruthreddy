@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning more on **A.I**
 
-- 💬 Ask me about **Data science**
+- 💬 Ask me anything about **Data Science** and **Artificial Intelligence**!
 
 - 📫 How to reach me **jagruth39@gmail.com**
 
